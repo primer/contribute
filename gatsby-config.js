@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: 'Contribute to Primer',
+    title: 'Contribution guidelines',
     shortName: 'Contribute',
     description: 'TODO'
   },

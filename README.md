@@ -1,6 +1,6 @@
-# Contribute to Primer
+# Contribution guidelines
 
-Contribution documentation for the Primer Design System.
+Contribution guidelines for the Primer Design System.
 
 ## Local development
 

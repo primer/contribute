@@ -4,17 +4,17 @@ Contribution guidelines for the Primer Design System.
 
 ## Local development
 
-1. Clone this repo, e.g. with:
+```shell
+# Clone the repository
+git clone https://github.com/primer/contribute.git
+cd contribute
 
-    ```sh
-    git clone https://github.com/primer/contribute.git
-    ```
+# Install dependencies
+yarn
 
-1. In the terminal, navigate (`cd`) to the repo directory
-
-1. `yarn` to install dependencies
-
-2. `yarn start` to start the dev server
+# Start local development server
+yarn start
+```
 
 ## Deployment
 

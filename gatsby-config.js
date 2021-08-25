@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Contribution guidelines',
     shortName: 'Contribute',
-    description: 'TODO'
+    description: 'Contribute to the Primer Design System'
   },
   pathPrefix: '/contribute',
   plugins: [

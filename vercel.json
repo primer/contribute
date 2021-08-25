@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/contribute", "destination": "/"}
+    {"source": "/contribute/:path*", "destination": "/:path*"}
   ]
 }

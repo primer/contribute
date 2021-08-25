@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    {"source": "/contribute(/.*)?", "destination": "$1"},
     {"source": "/contribute", "destination": "/"}
   ],
 }

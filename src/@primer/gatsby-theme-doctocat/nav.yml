@@ -1,3 +1,8 @@
+- title: How to contribute
+  url: /how-to-contribute
 - title: Component lifecycle 
   url: /component-lifecycle
- 
+- title: Design contributions
+  url: /design
+- title: Design docs 
+  url: /writing-design-docs

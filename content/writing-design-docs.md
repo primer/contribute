@@ -1,5 +1,5 @@
 ---
-title: Design docs
+title: Writing documentation
 ---
 
 Primer documentation should express the voices and contributions of different people, but for it to be useful it’s important to be consistent in tone and structure. 
@@ -18,26 +18,24 @@ Avoid using phrases or referencing examples that are only familiar internally at
 Code examples should promote what we'd like to see used in production. People copy and paste code examples as a starting point for building interfaces, and/or reference the guidelines for examples of correct implementation. While examples might be simpler than what we'd use in production, the code should promote best practice and follow our principles and accessibility standards.
 
 ## Audience
-Primer design documentation is primarily aimed at GitHub designers at various levels of experience, but folks in other areas, such as engineering and product management, will also benefit from and use the guidelines.
+Primer documentation is primarily aimed at GitHub designers and engineers at various levels of experience, but folks in other areas will also benefit from and use the guidelines.
 
 ### Assumed knowledge
 
 **Do:**
-- Assume the reader knows basic design concepts and principles, such as the need for consistency, and terms such as “white space” or “scale”.
+- In design docs, assume the reader knows basic design concepts and principles, such as the need for consistency, and terms such as “white space” or “scale”.
 - When referring to GitHub-specific terminology, link to a glossary of terms, or another document where the reader can learn more.
 - When referring to terms and ideas the reader may want to know more about, link to authoritative sources, such as [MDN](https://developer.mozilla.org/en-US/) and the [W3C](https://www.w3.org/).
-- Use code examples as necessary to ensure consistency and appropriate usage, but don't assume expertise in any programming language.
+- In non-engineering docs, use code examples as necessary to ensure consistency and appropriate usage, but don't assume expertise in any programming language.
 
 **Don’t:**
 - Don’t assume the reader knows about internal GitHub terminology.
 
 ## Aspirational guidelines
 
-Design guidelines can be aspirational, as long as what is documented is possible to implement with Primer. Guidelines should document and promote what we want folks to do with Primer, and not cover all possible variations.
+Guidelines can be aspirational, as long as what is documented is possible to implement with Primer. Guidelines should document and promote what we want folks to do with Primer, and not cover all possible variations.
 
-Design guidelines should not document patterns that are not possible to create with the current system.
-
-If you're writing guidelines for a feature that is upcoming, but not yet ready in implementation, you can have the content ready in a pull request, to be published when the implementation ships.
+Design guidelines should not document patterns that are not possible to create with the current system. If you're writing guidelines for a feature that is upcoming, but not yet ready in implementation, you can have the content ready in a pull request, to be published when the implementation ships.
 
 ## Voice and tone
 
@@ -110,7 +108,7 @@ When creating images with example UI for docs make sure that:
 
 All pull requests for new and updated guidelines should be reviewed and approved by a member of the Design Infrastructure team. 
 
-## Template and example
+## Design guidelines template
 Even though some guidelines follow a different format, most can use the following template as a starting point. Required sections are indicated.
 
 💡 The [action list component](https://primer.style/design/components/action-list) documentation is a good example of design guidelines.

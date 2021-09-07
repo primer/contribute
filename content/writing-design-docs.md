@@ -6,7 +6,7 @@ Primer documentation should express the voices and contributions of different pe
 
 Please read and follow these guidelines carefully when writing documentation, so that as many people as possible can benefit from Primer.
 
-## Design docs principles
+## Primer documentation principles
 
 ### Concise but friendly
 A large proportion of readers want to find an answer that helps them complete a task, so don't waste their time with unnecessary words. That doesn't mean talking like a robot though: a sprinkling of humor is fine as long as it doesn't make the documentation harder to parse or distract from instructions.

@@ -1,10 +1,9 @@
 ---
 title: Design contributions
+description: There some guidelines you should always keep in mind when creating Primer design patterns.
 ---
 
-There are a few things that you should keep in mind, when you are creating new design patterns for Primer.
-
-The aim is to create flexible, robust, and useful patterns that advance Primer's incremental innovation, while building upon an existing set of solid foundations.
+The key goals are to create flexible, robust, and useful patterns that advance Primer's incremental innovation, while building upon an existing set of solid foundations.
 
 ## Design system foundations
 

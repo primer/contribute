@@ -1,6 +1,6 @@
 ---
 title: Design contributions
-description: There some guidelines you should always keep in mind when creating Primer design patterns.
+description: These are some guidelines you should always keep in mind when creating Primer design patterns.
 ---
 
 The key goals are to create flexible, robust, and useful patterns that advance Primer's incremental innovation, while building upon an existing set of solid foundations.

@@ -1,6 +1,6 @@
 ---
 title: How to contribute
-description: Contributions to Primer can take many different formats to align with your skills and time availabe.
+description: Contributions to Primer can take many different formats to align with your skills and available time.
 ---
 
 There are several ways you can contribute to and participate in Primer:

@@ -1,6 +1,6 @@
 ---
 title: How to contribute
-description: ...
+description: Contributions to Primer can take many different formats to align with your skills and time availabe.
 ---
 
 There are several ways you can contribute to and participate in Primer:
@@ -12,9 +12,11 @@ There are several ways you can contribute to and participate in Primer:
 5. Give us feedback and report bugs 
 6. Contribute to our open source repos
 
-Please note that all contributions to Primer need to follow our [code of conduct](https://github.com/github/primer/blob/main/CODE_OF_CONDUCT.md). 
+All contributions to Primer need to follow our [code of conduct](https://github.com/github/primer/blob/main/CODE_OF_CONDUCT.md). 
 
 If at any time you get stuck or need help, head to #primer on Slack or start a discussion in this repo with your question.
+
+<Note>Please note that at this time, we are not looking for external contributions from non-GitHub staff. Some of the links included in these documents are only available to GitHub staff.</Note>
 
 ## Participate in discussions
 

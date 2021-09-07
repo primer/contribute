@@ -1,8 +1,7 @@
 ---
 title: Writing documentation
+description: Primer documentation should express the voices and contributions of different people, but for it to be useful it’s important to be consistent in tone and structure. 
 ---
-
-Primer documentation should express the voices and contributions of different people, but for it to be useful it’s important to be consistent in tone and structure. 
 
 Please read and follow these guidelines carefully when writing documentation, so that as many people as possible can benefit from Primer.
 

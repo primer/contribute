@@ -1,5 +1,6 @@
 ---
 title: How to contribute
+description: ...
 ---
 
 There are several ways you can contribute to and participate in Primer:

@@ -14,7 +14,7 @@ A large proportion of readers want to find an answer that helps them complete a 
 Avoid using phrases or referencing examples that are only familiar internally at GitHub. Assume readers are either members of the public or new to GitHub.
 
 ### Production quality
-Code examples should promote what we'd like to see used in production. People copy and paste code examples as a starting point for building interfaces, and/or reference the guidelines for examples of correct implementation. While examples might be simpler than what we'd use in production, the code should promote best practice and follow our principles and accessibility standards.
+Code examples should promote what we'd like to see used in production. People copy and paste code examples as a starting point for building interfaces, and/or reference the guidelines for examples of correct implementation. While examples might be simpler than what we'd use in production, the code should promote best practices and follow our principles and accessibility standards.
 
 ## Audience
 Primer documentation is primarily aimed at GitHub designers and engineers at various levels of experience, but folks in other areas will also benefit from and use the guidelines.

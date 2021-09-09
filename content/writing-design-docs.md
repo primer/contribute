@@ -42,7 +42,7 @@ Design guidelines should not document patterns that are not possible to create w
 - Write affirmative sentences wherever possible. 
 - Be clear and concise. 
 - Use [imperative mood](https://en.wikipedia.org/wiki/Imperative_mood), so that instructions are clear. 
-- Remove  unnecessary words, like adverbs, and keep sentences and paragraphs short.
+- Remove unnecessary words, like adverbs, and keep sentences and paragraphs short.
 - Don’t sound like a robot or too formal.
 - Don’t use sarcasm or irony, they may not translate well.
 - Avoid double negatives.

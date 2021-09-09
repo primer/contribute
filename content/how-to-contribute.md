@@ -14,7 +14,7 @@ There are several ways you can contribute to and participate in Primer:
 
 All contributions to Primer need to follow our [code of conduct](https://github.com/github/primer/blob/main/CODE_OF_CONDUCT.md). 
 
-If at any time you get stuck or need help, head to #primer on Slack or start a discussion in this repo with your question.
+If at any time you get stuck or need help, head to #primer on Slack or start a discussion in github/primer with your question.
 
 <Note>Please note that at this time, we are not looking for external contributions from non-GitHub staff. Some of the links included in these documents are only available to GitHub staff.</Note>
 

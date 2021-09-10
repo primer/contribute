@@ -1,5 +1,5 @@
 ---
-title: Design contributions
+title: Design
 description: These are some guidelines you should always keep in mind when creating Primer design patterns.
 ---
 

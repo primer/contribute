@@ -1,5 +1,5 @@
 ---
-title: Writing documentation
+title: Documentation
 description: Primer documentation should express the voices and contributions of different people, but for it to be useful it’s important to be consistent in tone and structure. 
 ---
 

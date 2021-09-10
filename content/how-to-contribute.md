@@ -34,7 +34,7 @@ If you're more certain about what you need, please open a [pattern request issue
 
 Documentation is a core part of Primer, and, just as design and code, we’re always trying to make it better and more useful. If you notice something missing, a typo, or have an idea of how the docs can be improved, please start a new [discussion](https://github.com/github/primer/discussions), or submit a pull request with a fix (you can do this directly via the “Edit this page on GitHub” link on the footer of docs pages).
 
-Read the Primer guidelines for [writing design documentation](https://primer.style/contribute/writing-design-docs).
+Read the Primer guidelines for [writing documentation](https://primer.style/contribute/writing-documentation).
 
 ## Design or build new patterns
 

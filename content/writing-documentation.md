@@ -106,3 +106,7 @@ When creating images with example UI for docs make sure that:
 ## Review process
 
 All pull requests for new and updated guidelines should be reviewed and approved by a member of the Design Infrastructure team. 
+
+## Resources
+
+- [Design guidelines template](https://github.com/primer/design/blob/master/CONTRIBUTING.md#design-guidelines-template)

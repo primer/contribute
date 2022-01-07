@@ -79,6 +79,12 @@ Follow the [GitHub content guidelines](https://brand.github.com/content/), in pa
   - **Don’t:** “Do not use this class”, “We are happy to see you.”
 - Exclamation points are OK, in moderation.
 
+You may also refer to the content style guide for GitHub docs (accessible to GitHub staff only), in specific:
+- [Keyboard shortcuts](https://github.com/github/docs-internal/blob/main/contributing/content-style-guide.md#keyboard-shortcuts)
+- [Procedural steps](https://github.com/github/docs-internal/blob/main/contributing/content-style-guide.md#procedural-steps)
+- [Titles](https://github.com/github/docs-internal/blob/main/contributing/content-style-guide.md#procedural-steps) (of articles)
+- [User interface elements](https://github.com/github/docs-internal/blob/main/contributing/content-style-guide.md#procedural-steps)
+
 ## Images and other examples
 
 Use this [Figma template](https://www.figma.com/file/YQT3nlmvSdZRPBnkDXvTFk/Doctocat-content-template?node-id=0%3A1) (GitHub staff only) to create images that are consistent across Primer documentation.

@@ -42,7 +42,7 @@ You can contribute to new patterns either by design, prototype and build proofs 
 
 Please read the [guidelines on designing Primer patterns](https://primer.style/contribute/design).
 
-From the [Primer project board](https://github.com/github/primer/projects/1) (GitHub staff only), you can grab anything from **Unprioritized backlog** and **Up next** — just reach out to us first in Slack or the issue itself.
+From the [Primer project board](https://github.com/orgs/github/projects/2759) (GitHub staff only), you can grab anything from **Unprioritized backlog** and **Up next** — just reach out to us first in Slack or the issue itself.
 
 ## Give us feedback and report bugs 
 

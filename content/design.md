@@ -41,7 +41,7 @@ You can also use an alternative prototyping tool like CodePen, Framer, or anythi
 
 ## Share early, and often
 
-The work that you're doing shouldn't be a surprise that you only reaveal when you're done. 
+The work that you're doing shouldn't be a surprise that you only reveal when you're done. 
 
 **Systems designers** can provide extra context and considerations that are helpful to create a solid design. 
 

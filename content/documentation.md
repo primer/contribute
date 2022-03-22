@@ -60,7 +60,7 @@ Design guidelines should not document patterns that are not possible to create w
 
 ## Grammar and usage
 
-Follow the [GitHub content guidelines](https://brand.github.com/content/), in particular:
+Follow the [GitHub content guidelines](https://github.com/github/brand/blob/main/content.md) (this link is only accessible to GitHub staff), in particular:
 
 - Follow US spelling.
   - **Do:** “Color palette”
@@ -115,4 +115,5 @@ All pull requests for new and updated guidelines should be reviewed and approved
 
 ## Resources
 
+- [Docs writing tips video](https://github.rewatch.com/video/o73hl5dh5hntp3xc-primer-docs-writing-tips) (only accessible to GitHub staff)
 - [Design guidelines template](https://github.com/primer/design/blob/master/CONTRIBUTING.md#design-guidelines-template)

@@ -30,10 +30,10 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn
 
-      - name: Build docs
-        run: npm run build
+      - name: Build
+        run: yarn build
 
       - name: Archive build output
         run: 'tar --dereference --directory public/ -cvf artifact.tar .'

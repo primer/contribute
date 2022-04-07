@@ -35,7 +35,7 @@ jobs:
         run: yarn
 
       - name: Build
-        run: yarn build
+        run: yarn build:preview
 
       - name: Archive build output
         run: 'tar --dereference --directory public/ -cvf artifact.tar .'

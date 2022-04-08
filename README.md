@@ -18,4 +18,4 @@ yarn start
 
 ## Deployment
 
-We deploy this site using [Vercel](https://vercel.com). Every push to a branch other than `main` will deploy to a URL unique to the branch name. Merges to `main` will automatically deploy the site to production.
+We deploy this site using [GitHub Pages](https://pages.github.com/). Every push to a branch other than `main` will deploy to a preview URL unique. Merges to `main` will automatically deploy the site to production.

@@ -1,6 +1,0 @@
-{
-  "trailingSlash": false,
-  "rewrites": [
-    {"source": "/contribute/:path*", "destination": "/:path*"}
-  ]
-}

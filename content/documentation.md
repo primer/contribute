@@ -68,7 +68,7 @@ Follow the [GitHub content guidelines](https://github.com/github/brand/blob/main
 - Use sentence case for titles.
   - **Do:** “Utility classes”
   - **Don’t:** “Utility Classes”
-- Capitalize only [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) and [product names](https://brand.github.com/content/terminology#products-ecosystem-and-programs).
+- Capitalize only [proper nouns](https://en.wikipedia.org/wiki/Proper_noun) and [product names](https://github.com/github/brand/blob/main/content.md#products-ecosystem-and-programs) (this link is only accessible to GitHub staff).
   - **Do:** “Open a pull request"
   - **Don't:** "Open a Pull Request"
 - Avoid positional language.
@@ -87,7 +87,7 @@ You may also refer to the content style guide for GitHub docs (accessible to Git
 
 ## Images and other examples
 
-Use this [Figma template](https://www.figma.com/file/YQT3nlmvSdZRPBnkDXvTFk/Doctocat-content-template?node-id=0%3A1) (GitHub staff only) to create images that are consistent across Primer documentation.
+Use this [Figma template](https://www.figma.com/file/YQT3nlmvSdZRPBnkDXvTFk/Doctocat-content-template?node-id=0%3A1) (accessible to GitHub staff only) to create images that are consistent across Primer documentation.
 
 When creating images with example UI for docs make sure that:
 - All documentation examples should be of real github.com examples

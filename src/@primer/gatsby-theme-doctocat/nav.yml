@@ -1,8 +1,10 @@
-- title: How to contribute
-  url: /how-to-contribute
-- title: Component lifecycle 
-  url: /component-lifecycle
-- title: Design
-  url: /design
-- title: Documentation 
-  url: /documentation
+- title: Introduction
+  children:
+  - title: Getting started
+    url: /
+  - title: Component lifecycle 
+    url: /component-lifecycle
+  - title: Design
+    url: /design
+  - title: Documentation 
+    url: /documentation

@@ -1,7 +1,6 @@
 - title: Introduction
+  url: /
   children:
-  - title: Getting started
-    url: /
   - title: How to contribute
     url: /how-to-contribute
   - title: Component lifecycle 

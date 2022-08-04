@@ -38,7 +38,7 @@ Read the Primer guidelines for [writing documentation](https://primer.style/cont
 
 ## Design or build new patterns
 
-You can contribute to new patterns either by design, prototype and build proofs of concept, and contribute directly to our Primer open source repos.
+You can contribute to new patterns either by design, prototype and build proofs of concept to our Primer open source repos.
 
 Please read the [guidelines on designing Primer patterns](https://primer.style/contribute/design).
 

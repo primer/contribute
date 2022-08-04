@@ -22,7 +22,7 @@ If at any time you get stuck or need help, head to #primer on Slack or start a d
 
 If you have a question, feedback or suggestion, you can start a new [discussion](https://github.com/github/primer/discussions) (GitHub staff only), or have a look at existing ones.
 
-The Design Infrastructure team holds office hours once a week and anyone at GitHub can join, ask questions and participate in ongoing conversations. The office hours Zoom invite links are posted in Slack before the meeting starts.
+Primer office hours are held once a week and anyone at GitHub can join, ask questions and participate in ongoing conversations. The office hours Zoom invite links are posted in Slack before the meeting starts.
 
 ## Propose a new UI pattern
 

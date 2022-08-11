@@ -9,10 +9,10 @@ There are several ways you can contribute to and participate in Primer:
 2. Propose a new UI pattern
 3. Improve the documentation
 4. Design or build new patterns
-5. Give us feedback and report bugs 
+5. Give us feedback and report bugs
 6. Contribute to our open source repos
 
-All contributions to Primer need to follow our [code of conduct](https://github.com/github/primer/blob/main/CODE_OF_CONDUCT.md). 
+All contributions to Primer need to follow our [code of conduct](https://github.com/github/primer/blob/main/CODE_OF_CONDUCT.md).
 
 If at any time you get stuck or need help, head to #primer on Slack or start a discussion in github/primer with your question.
 
@@ -22,7 +22,7 @@ If at any time you get stuck or need help, head to #primer on Slack or start a d
 
 If you have a question, feedback or suggestion, you can start a new [discussion](https://github.com/github/primer/discussions) (GitHub staff only), or have a look at existing ones.
 
-The Design Infrastructure team holds office hours once a week and anyone at GitHub can join, ask questions and participate in ongoing conversations. The office hours Zoom invite links are posted in Slack before the meeting starts.
+Primer office hours are held once a week and anyone at GitHub can join, ask questions and participate in ongoing conversations. The office hours Zoom invite links are posted in Slack before the meeting starts.
 
 ## Propose a new UI pattern
 
@@ -38,13 +38,13 @@ Read the Primer guidelines for [writing documentation](https://primer.style/cont
 
 ## Design or build new patterns
 
-You can contribute to new patterns either by design, prototype and build proofs of concept, test in dotcom, and contribute directly to our Primer open source repos.
+You can contribute to new patterns either by design, prototype and build proofs of concept, test in dotcom, or directly to our Primer open source repos.
 
 Please read the [guidelines on designing Primer patterns](https://primer.style/contribute/design).
 
 From the [Primer project board](https://github.com/orgs/github/projects/2759) (GitHub staff only), you can grab anything from **Unprioritized backlog** and **Up next** — just reach out to us first in Slack or the issue itself.
 
-## Give us feedback and report bugs 
+## Give us feedback and report bugs
 
 If you spot something that doesn’t look right in our design, code or documentation, open an issue and we'll triage it accordingly.
 

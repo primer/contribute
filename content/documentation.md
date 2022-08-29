@@ -92,7 +92,7 @@ Use this [Figma template](https://www.figma.com/file/YQT3nlmvSdZRPBnkDXvTFk/Doct
 When creating images with example UI for docs make sure that:
 - All documentation examples should be of real github.com examples
 - Examples only include the most important part of the UI, and don't try to show the entire UI
-- Don't include fake copy (for example, don't say "New issue" instead of "Button" as the text inside a button)
+- Use example copy (for example, use "New issue" instead of "Button" as the text inside a button)
 
 ## References
 

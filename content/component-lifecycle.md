@@ -6,9 +6,9 @@ These milestones summarize the maturity lifecycle of UI components in Primer. Co
 
 ## Experimental
 
-Proof-of-concept built outside of Primer.
+Proof-of-concept, often built outside of Primer.
 
-- The component exists as a proof-of-concept built outside of Primer, often in a GitHub application such as GitHub.com.
+- The component exists as a proof-of-concept. In many cases experimental components may be built outside of Primer, often in a GitHub application such as GitHub.com.
 
 ## Alpha
 

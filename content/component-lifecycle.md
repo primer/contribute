@@ -17,9 +17,12 @@ The component is ready for preliminary usage, with breaking changes expected.
 - The component does not have external dependencies. This could be external libraries or dependencies on libraries in an application (like GitHub.com)
 - The component is compatible with color modes and can adapt to different themes. The component does not reference any hard-coded static values and uses functional variables. Any temporary or app-level variables have been removed. Theme values (such as a new brand scheme) can be swapped out without touching the public API of the component.
 - The component is designed with responsiveness in mind. The component can adapt to different screen sizes, from mobile to large desktop screens. The component's interactive areas must be friendly to touch on devices with a coarse pointer method.
-- Basic documentation exists that includes example usage of the component.
+- Component documentation includes example usage of the component.
 - Primary use cases tested and reviewed.
-- The component has 100% test coverage.
+- The component has robust unit test coverage on all critical paths, including branching logic and edge cases. This is measurable through metrics like 100% test coverage (where achievable). 
+- The component has visual regression coverage of its default and interactive states.
+- The component has robust test coverage for its interactive (stateful) behaviour, which has been verified in end-to-end and/or open-box testing suites.
+- The component does not introduce any [axe](https://www.deque.com/axe/) violations.
 
 ## Beta
 

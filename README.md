@@ -1,3 +1,5 @@
+> :warning: **This repo is not maintained anymore**. Please raise pull requests in [primer.style/design](https://github.com/primer/design/) 
+
 # Contribution guidelines
 
 Contribution guidelines for the Primer Design System.

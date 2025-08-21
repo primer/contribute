@@ -41,7 +41,7 @@ You can also use an alternative prototyping tool like CodePen, Framer, or anythi
 
 ## Share early, and often
 
-The work that you're doing shouldn't be a surprise that you only reaveal when you're done. 
+The work that you're doing shouldn't be a surprise that you only reveal when you're done. 
 
 **Systems designers** can provide extra context and considerations that are helpful to create a solid design. 
 
@@ -52,7 +52,7 @@ The work that you're doing shouldn't be a surprise that you only reaveal when yo
 There are different ways you can ask for and get feedback:
 
 - Async via [discussions](https://github.com/github/primer/discussions/categories/feedback) (GitHub staff only): Record a short video and/or links to a Figma prototype (or any other kind of prototype, like sketches or code), providing context and specifying what kind of feedback you're looking for 
-- Primer open office hours: Attend office hours on Thursdays (1.30pm PT). The Zoom link is posted right before in #primer. Be prepared to give context and ask what kind of feedback you're looking for succintly. Ideally, give a heads-up in #primer beforehand so we can be sure a designer will be present in the call
+- Primer open office hours: Attend office hours on Thursdays (1.30pm PT). The Zoom link is posted right before in #primer. Be prepared to give context and ask what kind of feedback you're looking for succinctly. Ideally, give a heads-up in #primer beforehand so we can be sure a designer will be present in the call
 - Ad-hoc in real-time:  In #primer, ask for a short critique session with a systems designer, to get feedback on a specific issue
 
 ## Design checklist

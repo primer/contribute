@@ -1,4 +1,4 @@
-> :warning: **This repo is not maintained anymore**. Please raise pull requests in [primer.style/design](https://github.com/primer/design/) 
+> :warning: **This repo is not maintained anymore**. Please refer to contribution guidelines at [https://primer.style/product/contribute/](https://primer.style/product/contribute/). Hubbers may raise pull requests to this content in [https://github.com/github/primer-docs](https://github.com/github/primer-docs) (GitHub staff only).
 
 # Contribution guidelines
 
